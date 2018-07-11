@@ -30,5 +30,15 @@ fifth line
 
 12th line
 
+<<<<<<< Updated upstream
 13th line
 
+=======
+
+
+13th line
+
+14th line
+
+15th line
+>>>>>>> Stashed changes
