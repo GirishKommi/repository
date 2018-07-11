@@ -1,5 +1,6 @@
 hello world. this is a new text
 
+
 adding an extra line.
 
 
@@ -19,7 +20,10 @@ fifth line
 7th line
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> feature_branch
 8th line
 
 9th line
@@ -27,6 +31,7 @@ fifth line
 10th line
 
 11th line
+<<<<<<< HEAD
 
 12th line
 
@@ -42,3 +47,5 @@ fifth line
 
 15th line
 >>>>>>> Stashed changes
+=======
+>>>>>>> feature_branch
