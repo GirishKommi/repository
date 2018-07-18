@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 adding a text and an extra line
 
 
@@ -16,3 +17,6 @@ another line here
 5th line
 
 
+=======
+Hello World.
+>>>>>>> feature

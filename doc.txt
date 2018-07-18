@@ -1,2 +1,6 @@
 hello world. this is a new text
 
+<<<<<<< HEAD
+=======
+using this document for stash and pop 
+>>>>>>> feature

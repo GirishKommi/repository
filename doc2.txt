@@ -1,6 +1,7 @@
 hello world!!!
 
 
+<<<<<<< HEAD
 1st line
 
 2nd line
@@ -10,3 +11,7 @@ hello world!!!
 4th line
 
 5th line
+=======
+
+
+>>>>>>> feature
