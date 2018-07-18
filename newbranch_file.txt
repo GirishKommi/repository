@@ -1,9 +1,0 @@
-experimenting on branching.
-
-<<<<<<< HEAD
-fixing the bugs on a new branch. this is to bug fix
-=======
-
-
-let's make this interesting
->>>>>>> newfeature
